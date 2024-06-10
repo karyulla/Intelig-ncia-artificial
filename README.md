@@ -1,2 +1,2 @@
-# Intelig-ncia-artificial
+# Inteligencia-artificial
 Projeto do segundo trimestre
